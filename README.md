@@ -4,11 +4,11 @@
 ## 阿里巴巴
 
 - 淘宝 UED
-  - Blog: <del><http://ued.taobao.org/blog/></del>
+  - <del>Blog: <http://ued.taobao.org/blog/></del>
 - 淘宝前端团队 FED
-  - Blog: <del><http://taobaofed.org/></del>
+  - <del>Blog: <http://taobaofed.org/></del>
   - Blog: <https://fed.taobao.org/>
-  - GitHub: <del><https://github.com/taobaofed></del>
+  - <del>GitHub: <https://github.com/taobaofed></del>
   - GitHub: <https://github.com/taofed>
 - 手机淘宝前端团队 AmFE
   - Blog: https://github.com/amfe/article
