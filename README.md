@@ -1,25 +1,28 @@
 
 # 前端团队
 
-## 淘宝
+## 阿里巴巴
 
-- 淘宝UED
-  - <del>[Blog](http://ued.taobao.org/blog/)</del>
-- 淘宝前端团队FED
-  - <del>[Blog](http://taobaofed.org/)</del>
-  - [Blog](https://fed.taobao.org/)
+- 淘宝 UED
+  - Blog: <del><http://ued.taobao.org/blog/></del>
+- 淘宝前端团队 FED
+  - Blog: <del><http://taobaofed.org/></del>
+  - Blog: <https://fed.taobao.org/>
+  - GitHub: <https://github.com/taobaofed>
+  - GitHub: <https://github.com/taofed>
 - 手机淘宝前端团队
   - [GitHub](https://github.com/amfe/article/issues)
 - 天猫前端团队
   - [GitHub](https://github.com/tmallfe/tmallfe.github.io/issues)
-- 阿里妈妈MUX/etao UX Team
+- 阿里妈妈 MUX/etao UX Team
   - [Blog](http://mux.alimama.com/)
   - [GitHub](https://github.com/etaoux)
   - [THX](https://github.com/thx)
-- 阿里巴巴中文站UED
-  - [Blog](http://www.aliued.cn/)
-- 阿里巴巴国际UED
-  - [Blog](http://www.aliued.com/)
+- 阿里巴巴中文站 UED
+  - Blog: <http://www.aliued.cn/>
+- 阿里巴巴国际 UED
+  - Blog: <http://www.aliued.com/>
+  - 知乎专栏: <https://zhuanlan.zhihu.com/aliued>
   - [GitHub](https://github.com/sdc-alibaba)
   - [GitHub](https://github.com/sdc-fe)
 - 阿里通信前端团队
@@ -34,10 +37,10 @@
 ## 百度
 
 - Baidu EFE（前ECOM前端团队）
-  - [Blog](http://efe.baidu.com/)
+  - Blog: <https://efe.baidu.com/>
   - [GitHub](https://github.com/ecomfe)
 - Baidu FEX（百度前端研发部）
-  - [Blog](http://fex.baidu.com/)
+  - Blog: <https://fex.baidu.com/>
   - [GitHub](https://github.com/fex-team/)
 - Baidu MUX（百度移动用户体验部）
   - [Blog](http://mux.baidu.com/)
@@ -53,9 +56,9 @@
 ## 360
 
 - 360 奇舞团
-  - [Blog](http://www.75team.com/)
+  - Blog: <https://75.team/>
 - 360 UXC（360 用户体验设计中心）
-  - [Blog](http://uxc.360.cn/)
+  - Blog: <del>http://uxc.360.cn/</dev>
 
 ## 腾讯
 
@@ -92,16 +95,16 @@
 ## 美团
 
 - 美团前端团队
-  - <del>[Blog](http://fe.meituan.com/)</del>
-- 美团点评技术团队
-  - [Blog](http://tech.meituan.com/)
+  - Blog: <del>http://fe.meituan.com/</del>
+- 美团技术团队
+  - Blog: <https://tech.meituan.com/>
 
 ## 京东
 
 - JDC（京东设计中心）
-  - [Blog](https://jdc.jd.com/)
+  - Blog: <https://jdc.jd.com/>
 - O2（凹凸实验室）
-  - [Blog](http://aotu.io/)
+  - Blog: <https://aotu.io/>
   - [GitHub](https://github.com/o2team)
 
 ## 携程
