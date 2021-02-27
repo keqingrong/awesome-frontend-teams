@@ -8,12 +8,16 @@
 - 淘宝前端团队 FED
   - Blog: <del><http://taobaofed.org/></del>
   - Blog: <https://fed.taobao.org/>
-  - GitHub: <https://github.com/taobaofed>
+  - GitHub: <del><https://github.com/taobaofed></del>
   - GitHub: <https://github.com/taofed>
-- 手机淘宝前端团队
-  - [GitHub](https://github.com/amfe/article/issues)
-- 天猫前端团队
-  - [GitHub](https://github.com/tmallfe/tmallfe.github.io/issues)
+- 手机淘宝前端团队 AmFE
+  - Blog: https://github.com/amfe/article
+  - GitHub: <https://github.com/amfe>
+- 天猫前端团队 
+  - Blog: <https://tmallfe.github.io/>
+  - Blog: <https://github.com/tmallfe/tmallfe.github.io/issues>
+  - 知乎专栏: <https://zhuanlan.zhihu.com/tmallf2e>
+  - GitHub: <https://github.com/tmallfe>
 - 阿里妈妈 MUX/etao UX Team
   - [Blog](http://mux.alimama.com/)
   - [GitHub](https://github.com/etaoux)
